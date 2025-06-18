@@ -1,0 +1,46 @@
+Server/ml_models/*.pth
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# IntelliJ related
+*.iml
+.idea/
+
+# VS Code related
+.vscode/
+
+# macOS/iOS/Android platform-specific build files
+android/.gradle/
+android/app/build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcodeproj/
+ios/Pods/
+ios/Podfile.lock
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Pods/
+macos/Podfile.lock
+macos/build/
+
+# Linux/Windows platform-specific build files
+linux/flutter/
+linux/CMakeFiles/
+linux/build/
+windows/flutter/
+windows/CMakeFiles/
+windows/build/
+
+# Web build
+web/.dart_tool/
+web/build/
+
+# Others
+pubspec.lock
+*.log
